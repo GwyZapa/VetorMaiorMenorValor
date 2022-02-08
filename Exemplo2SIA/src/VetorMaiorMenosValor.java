@@ -11,7 +11,9 @@ public class VetorMaiorMenosValor {
 
 		System.out.println(maior);
 		System.out.println(menor);
-		System.out.println("FECHANDO!");
+		System.out.println("FECHANDO!");	
+		System.out.println("Alterado no github!");
+	
 	}
 	
 	public static void preencher(int[] a) {
